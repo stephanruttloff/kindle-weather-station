@@ -1,8 +1,9 @@
 #!/usr/bin/python2
 
 # Kindle Weather Display
-# Matthew Petroff (http://www.mpetroff.net/)
-# September 2012
+# Stephan Ruttloff (http://www.ruttloff.org)
+# based on work from  Matthew Petroff (http://www.mpetroff.net/)
+# 01/2013
 
 import urllib2
 from xml.dom import minidom
